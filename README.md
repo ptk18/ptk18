@@ -18,8 +18,7 @@ Simulate and plan GPA progress easily
 [🌐 Try it here](https://kmitl-gpa-simulator.onrender.com)
 
 ### 🛡️ AI Safety Assistant App  
-*Bronze Prize – International AI Hackathon 2024*  
-YOLO + OpenCV + Amazon Bedrock (Claude 3 + Titan) for RAG-based safety analysis  
+YOLO + OpenCV + Amazon Bedrock (Claude 3 + Titan) for RAG-based Occupational Safety   
 [🔗 GitHub](https://github.com/ptk18)
 
 ### 💬 JAVIS – Voice-Driven Coding Assistant  
@@ -39,5 +38,5 @@ Pet recovery app with location & payment plugin-based microkernel architecture
 
 ---
 
-> *“Proof that data can be beautiful — just like its scientist.”*
+> *“Behind every data, there's a whisper.”*
 
