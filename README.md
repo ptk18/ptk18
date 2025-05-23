@@ -2,14 +2,7 @@
 
 A **Software Engineer & Data Science Enthusiast** with a passion for building **data-driven applications** and systems. I excel at translating **complex data insights** into **robust, scalable software solutions** that solve real-world problems.
 
-## 🧠 Skills
-
-**Languages:** Python, SQL, C++, Java, Rust  
-**Web Development:** HTML, CSS, JavaScript, Django, FastAPI, React, Svelte, Bootstrap, Tailwind  
-**ML & Data Science:** Feature Engineering, EDA, Model Evaluation, MLOps, Model Tracking  
-**Tools:** Git, Docker, MongoDB, MySQL, Figma, Qt  
-
-## 📬 Contact
+## 📬 Contact Me
 
 📧 [Mail](mailto:phyoethikhine143@gmail.com)  
 🌍 [Portfolio](https://ptk18.github.io/portfolio-site)  
