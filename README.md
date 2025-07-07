@@ -9,7 +9,6 @@ A **Software Engineer & Data Science Enthusiast** with a passion for building **
 💼 [LinkedIn](https://github.com/ptk18)  
 📱 [Line](https://line.me/ti/p/ir8_abxYxF)
 
----
 
-> *“Behind every data, there's a whisper.”*
+
 
