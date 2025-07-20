@@ -1,6 +1,6 @@
 # 🤍 Hi, I'm Phyo Thi Khaing!
 
-A **Software Engineer & Data Science Enthusiast** with a passion for building **data-driven applications** and systems. I excel at translating **complex data insights** into **robust, scalable software solutions** that solve real-world problems.
+A **Software Engineer, Data Scientist & NLP | ML Enthusiast** with a passion for building **data-driven applications** and systems. I excel at translating **complex data insights** into **robust, scalable software solutions** that solve real-world problems.
 
 ## 📬 Contact Me
 
