@@ -5,7 +5,7 @@ A **Software Engineer, Data Scientist & AI | ML Enthusiast** with a passion for 
 ## 📬 Contact Me
 
 📧 [Mail](mailto:phyoethikhine143@gmail.com)  
-🌍 [Portfolio](https://ptk18.github.io/my-portfolio/)  
+🌍 [Portfolio](https://phyothikhaing.com)  
 💼 [LinkedIn](https://github.com/ptk18)  
 📱 [Line](https://line.me/ti/p/ir8_abxYxF)
 
