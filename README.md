@@ -6,7 +6,7 @@ A **Software Engineer, Data Scientist & AI | ML Enthusiast** with a passion for 
 # 🧑‍💻 Experience
 
 **AI Engineer · General Magick Industries**  
-May 2026–Present
+May 2026–Present  
 Developing AI systems and backend services, with a focus on multi-model reasoning, agent memory, and platform reliability.
 
 [View case study ↗](https://phyothikhaing.com/projects/general-magick-industires-work)
