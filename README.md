@@ -13,7 +13,7 @@ Developing AI systems and backend services, with a focus on multi-model reasonin
 
 **Data Scientist · PropTech Builders**  
 Apr 2025–May 2026  
-Built property data pipelines and automated valuation reports to support real estate analytics.
+Built property data pipelines and Automated Valuation Model to support real estate analytics.
 
 [View case study ↗](https://phyothikhaing.com/projects/proptech-builders-work)
 
