@@ -2,7 +2,7 @@
 
 A **Software Engineer, Data Scientist & AI | ML Enthusiast** with a passion for building **data-driven applications** and systems. I excel at translating **complex data insights** into **robust, scalable software solutions** that solve real-world problems.
 
-### Experience
+## 🧑‍💻 Experience
 
 **AI Engineer · General Magick Industries**  
 May 2026–Present
@@ -17,13 +17,13 @@ Built property data pipelines and automated valuation reports to support real es
 
 [View case study →](https://phyothikhaing.com/projects/proptech-builders-work)
 
-### Education
+## 🎓 Education
 
 **B.Eng. Software Engineering**  
 King Mongkut's Institute of Technology Ladkrabang (KMITL)
 
 
-### Connect
+## ✉️ Contact
 
 [Portfolio](https://phyothikhaing.com) ·
 [LinkedIn](https://www.linkedin.com/in/your-username/) ·
